@@ -19,7 +19,7 @@
 4. 至此自动签到就搭建完毕了。
 
 ### login_cookie、auth_cookie的获取
-1. 网页登录 腾讯视频
+1. 网页登录 腾讯视频1
 
 2. 进入该网页：https://vip.video.qq.com/fcgi-bin/comm_cgi?name=hierarchical_task_system&cmd=2
 
